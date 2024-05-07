@@ -1,0 +1,40 @@
+.page1{
+    background-color: rgb(244, 226, 90);
+    height: auto;
+}
+.tag_colour{
+
+    color: red;
+    text-align: center;
+}
+
+.page2{
+    background-color: rgb(69, 56, 47);
+}
+.tag_2{
+    color: blue;
+    text-align: center;
+}
+
+.card_container{
+    background-color: antiquewhite  ;
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-bottom: 50px;
+    margin-top: 150px;
+}
+.container{
+    background-color: aqua;
+   height: fit-content;
+}
+
+
+.main_card{
+    display: flex;
+
+}
+
+.image{
+    width: 200px;
+    height: 200px;
+}
